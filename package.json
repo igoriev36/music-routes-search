@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node tools/generate-index.js",
-    "test": "standard && nyc --check-coverage --branches 100 --functions 100 --lines 100 node test/index.js"
+    "test": "standard && c8 --check-coverage --branches 100 --functions 100 --lines 100 node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,8 +20,8 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "music-routes-data": "^1.0.7",
-    "nyc": "^14.1.1",
+    "c8": "^7.11.0",
+    "music-routes-data": "^1.1.0",
     "semantic-release": "^19.0.2",
     "standard": "^16.0.4"
   },
