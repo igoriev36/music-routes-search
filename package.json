@@ -1,6 +1,6 @@
 {
   "name": "music-routes-search",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Search the Music Routes data set",
   "main": "index.js",
   "types": "index.d.ts",
