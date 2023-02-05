@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/Trott/music-routes-search/compare/v2.3.0...v2.4.0) (2023-02-05)
+
+
+### Features
+
+* update music routes data ([4508915](https://github.com/Trott/music-routes-search/commit/450891536c88d9f30c4a5735875546dd86412593))
+
 # [2.3.0](https://github.com/Trott/music-routes-search/compare/v2.2.1...v2.3.0) (2023-02-05)
 
 
