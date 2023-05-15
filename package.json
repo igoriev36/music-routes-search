@@ -27,7 +27,7 @@
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "@types/lunr": "^2.3.4",
-    "@types/node": "^18.11.18",
+    "@types/node": "^20.1.4",
     "c8": "^7.11.0",
     "music-routes-data": "^2.0.0",
     "semantic-release": "^20.0.2",
